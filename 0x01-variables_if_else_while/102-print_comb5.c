@@ -22,7 +22,7 @@ int main(void)
 			k = i;
 			while (k < 58)
 			{
-				while (m < 58a)
+				while (m < 58)
 				{
 					putchar(i);
 					putchar(j);
