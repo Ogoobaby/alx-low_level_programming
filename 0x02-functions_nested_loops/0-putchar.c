@@ -1,22 +1,12 @@
-#include "main.h"
-#include <unistd.h>
+#include <stdio.h>
 
 /**
-* main -Entry point
-*
-* Return: Always 0 (Success)
-*/
+ * main - Main function
+ * Return: Return 0
+ */
 
-int main(void)
+	int main(void)
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
+	printf("_putchar\n");
 	return (0);
 }
