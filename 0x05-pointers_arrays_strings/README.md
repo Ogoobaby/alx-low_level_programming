@@ -1,1 +1,1 @@
-0x05-pointers_arrays_strings Directory
+This is a READme file
