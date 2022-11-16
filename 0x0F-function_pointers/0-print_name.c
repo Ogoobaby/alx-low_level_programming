@@ -1,13 +1,13 @@
+include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include "main.h"
+
 /**
  * print_name - f points to either func in main
  * @name: name
  * @f: pointer to print upp or non upp func
  * Return: void
  */
-int main(void)
 void print_name(char *name, void (*f)(char *));
 {
 	if (name == NULL || f == NULL)
