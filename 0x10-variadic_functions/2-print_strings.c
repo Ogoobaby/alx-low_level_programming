@@ -7,6 +7,7 @@
  * @n: number of elements
  * Return: void
  */
+
 void print_strings(const char *separator, const unsigned int n, ...)
 {
 	va_list valist;
